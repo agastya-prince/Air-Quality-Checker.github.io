@@ -1,0 +1,31 @@
+body {
+    /* padding: 25px; */
+    background-color: #edfaf0;
+    color: black;
+    /* font-size: 25px; */
+  }
+  .nav-bar {
+    background-color : #3ddad8;
+  }
+
+  .card-header {
+    background-color: #A0C1B8;
+  }
+  
+  .card-body {
+    background-color : #aed9da;
+  }
+
+  tr:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.4);
+  }
+  
+  tr:hover {background-color: #D6EEEE;}
+  
+  .dark-mode {
+    background-color: #135589;
+    color: white;
+  }
